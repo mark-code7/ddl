@@ -1,0 +1,13 @@
+{
+"app_id":"wx8fe8aadd1dc2f2d5",
+"app_secret":"47551b01ef92ddacbff5959ab06c3a4c",
+"template_id":"qAQao0H9KwyQYG8taj2aRZoDk0RifqMUxBIp1ChKNiM",
+"user":["od6Fd5kWYzwN_z4f_aT1ZuUkV_Z0","od6Fd5tabX711AE61oaeVW4lsfao"],
+"weather_key":"72fd70cda87c4a4c8e938200cc310a2f",
+"region":"静乐县",
+"birthday1":{"name":"杜飞","birthday":"r1999-03-14"},
+"birthday2":{"name":"个泡","birthday":"r2000-10-20"},
+"love_date":"2022-09-03",
+"note_ch":"",
+"note_en":""
+}
